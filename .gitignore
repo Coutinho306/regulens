@@ -14,6 +14,7 @@ wheels/
 
 # Generated / gitignored outputs
 sample_response.html
+sample_api_response.json
 logs/*.json
 
 # Tools
