@@ -19,3 +19,4 @@ logs/*.json
 
 # Tools
 .pytest_cache/
+claude/
